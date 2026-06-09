@@ -187,7 +187,7 @@ export default function Footer() {
         <rect width="100%" height="100%" fill="url(#footer-dots)" />
       </svg> */}
 
-      <div className="relative z-10 mx-auto max-w-7xl px-4 md:px-6">
+      <div className="relative z-10 mx-auto max-w-7xl px-4 md:px-8">
         {/* ── Top block: wordmark + tagline + newsletter ── */}
         <motion.div
           initial="hidden"
@@ -199,22 +199,12 @@ export default function Footer() {
             {/* Wordmark + tagline */}
             <div className="flex flex-col gap-4 max-w-sm">
               <motion.div variants={fadeUp}>
-                <span
-                  className="font-title font-black text-white leading-none"
-                  style={{
-                    fontSize: 'clamp(28px, 3.5vw, 44px)',
-                    letterSpacing: '-0.03em',
-                  }}
-                >
-                  Saikat<span style={{ color: '#A3FF12' }}>.</span>
-                  <br />
-                  Capital
-                </span>
+                <img src="/icon.png" alt="Saikat Capital" className="h-32" />
               </motion.div>
 
               <motion.p
                 variants={fadeUp}
-                className="text-[15px] leading-relaxed text-white/45"
+                className="text-lg leading-relaxed text-white/70"
               >
                 A premium design and development studio building brands,
                 products, and digital experiences for startups and SaaS

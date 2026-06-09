@@ -1174,7 +1174,7 @@ export default function WhySaikatCapital() {
         </svg>
       </div>
 
-      <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-6">
+      <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-8">
         <motion.div
           ref={headerRef}
           variants={containerVariants}

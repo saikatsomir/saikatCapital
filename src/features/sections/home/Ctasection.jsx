@@ -331,10 +331,10 @@ export default function CtaSection() {
   const inView = useInView(ref, { once: true, margin: '-80px' });
 
   return (
-    <section className="relative w-full px-4 py-20 sm:py-24 overflow-hidden bg-white">
+    <section className="relative w-full px-4  py-20 sm:py-24 overflow-hidden bg-white">
       <div className="pointer-events-none absolute inset-x-0 top-0 h-20 bg-gradient-to-b from-white to-transparent z-10" />
 
-      <div ref={ref} className="relative max-w-7xl mx-auto">
+      <div ref={ref} className="relative max-w-[1216px] mx-auto">
         <div
           className="relative w-full overflow-hidden rounded"
           style={{ minHeight: '500px' }}
@@ -409,8 +409,8 @@ export default function CtaSection() {
             {/* Sub-copy — brighter */}
             <motion.p
               variants={fadeUp}
-              className="mt-5 max-w-md text-sm sm:text-base leading-relaxed"
-              style={{ color: 'rgba(255,255,255,0.65)' }}
+              className="mt-5 max-w-md text-sm sm:text-base text-white/70 leading-relaxed"
+              // style={{ color: 'rgba(255,255,255,0.65)' }}
             >
               Most projects kick off within 48 hours. No fluff, no templates —
               just a focused team building your brand exactly the way it
@@ -418,24 +418,6 @@ export default function CtaSection() {
             </motion.p>
 
             {/* Trust badges — brighter */}
-            <motion.div
-              variants={fadeUp}
-              className="mt-6 flex flex-wrap items-center justify-center gap-2"
-            >
-              {[
-                '✦ 150+ projects delivered',
-                '✦ 48hr kickoff',
-                '✦ 5.0★ rated',
-              ].map((badge) => (
-                <span
-                  key={badge}
-                  className="text-xs font-medium"
-                  style={{ color: 'rgba(255,255,255,0.45)' }}
-                >
-                  {badge}
-                </span>
-              ))}
-            </motion.div>
 
             {/* CTAs */}
             <motion.div

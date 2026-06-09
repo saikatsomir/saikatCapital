@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
-import logo from '/white-logo.png';
+import logo from '/logo-test.png';
 import { AiOutlineProduct } from 'react-icons/ai';
 import { DiHtml5DeviceAccess } from 'react-icons/di';
 import { PiSquaresFourBold } from 'react-icons/pi';
@@ -101,7 +101,7 @@ export const Navbar = () => {
     >
       <div className="max-w-[1216px] w-full  h-20 flex justify-between items-center px-5 border border-white/10 rounded bg-[#071A0F]/50 backdrop-blur-xl mt-5 mx-3 sm:mx-8">
         <Link to="/" onClick={() => setIsOpen(false)}>
-          <img src={logo} className="h-10 sm:h-14" alt="Logo" />
+          <img src={logo} className="h-10 sm:h-10" alt="Logo" />
         </Link>
 
         <NavLinks />
