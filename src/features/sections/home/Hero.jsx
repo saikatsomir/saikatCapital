@@ -2,7 +2,7 @@ import { useRef, useEffect, useState } from 'react';
 import { motion, useInView, animate } from 'framer-motion';
 import bg from '../../../assets/images/bg.png';
 import thumbnail from '../../../assets/images/thumbnail2.png';
-import showreel from '../../../assets/videos/saikatcapital-showreel.mp4';
+import showreel from '../../../assets/Videos/showreel.mp4';
 import clutch from '../../../assets/images/clutch.png';
 import { IoIosStar } from 'react-icons/io';
 
