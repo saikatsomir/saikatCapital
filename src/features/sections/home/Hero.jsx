@@ -2,7 +2,6 @@ import { useRef, useEffect, useState } from 'react';
 import { motion, useInView, animate } from 'framer-motion';
 import bg from '../../../assets/images/bg.png';
 import thumbnail from '../../../assets/images/thumbnail2.png';
-import showreel from '../../../assets/Videos/showreel.mp4';
 import clutch from '../../../assets/images/clutch.png';
 import { IoIosStar } from 'react-icons/io';
 
@@ -124,7 +123,7 @@ function ShowreelPlayer() {
         {/* Using inline borderRadius since rounded-full on aspect-video looks odd — capped at 16px pill */}
         <video
           ref={videoRef}
-          src={showreel}
+          src="https://res.cloudinary.com/dlrdzn6q4/video/upload/v1781007758/showreel_kwabzy.mp4"
           className="absolute inset-0 w-full h-full object-cover object-center z-0"
           loop
           muted

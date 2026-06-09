@@ -1,4 +1,3 @@
-import Footer from '../../shared/components/Footer';
 import CtaSection from '../sections/home/Ctasection';
 import Faq from '../sections/home/Faq';
 import { Hero } from '../sections/home/Hero';
@@ -21,7 +20,6 @@ export const Home = () => {
       <Testimonials />
       {/* <Faq /> */}
       <CtaSection />
-      <Footer />
     </div>
   );
 };
