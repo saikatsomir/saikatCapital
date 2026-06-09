@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "tag": "eCommerce",
+    "title": "How we helped Burgi turn its online presence into a high-converting ordering experience.",
+    "videoUrl": "../../src/assets/Videos/burgi.mp4",
+    "logo": null,
+    "logoText": "Burgi",
+    "quote": "The new website completely changed how customers interact with our brand online. Orders increased, engagement improved, and our digital presence finally matched the quality of our food.",
+    "author": "Ahmed Rahman",
+    "role": "Founder",
+    "company": "Burgi",
+    "avatar": "AR",
+    "stats": [
+      {
+        "value": "3.2×",
+        "label": "Online orders"
+      },
+      {
+        "value": "14 days",
+        "label": "Project delivery"
+      }
+    ],
+    "accentColor": "#0D0B61",
+    "to": "/case-studies/burgi"
+  },
+  {
+    "id": 2,
+    "tag": "SaaS",
+    "title": "How we designed ChatNex to simplify customer communication at scale.",
+    "videoUrl": "../../src/assets/Videos/chatnex.mp4",
+    "logo": null,
+    "logoText": "ChatNex",
+    "quote": "Saikat Capital helped us transform a complex product into an intuitive experience that customers actually enjoy using.",
+    "author": "Ryan Foster",
+    "role": "Co-Founder",
+    "company": "ChatNex",
+    "avatar": "RF",
+    "stats": [
+      {
+        "value": "41%",
+        "label": "User activation"
+      },
+      {
+        "value": "18 days",
+        "label": "Design sprint"
+      }
+    ],
+    "accentColor": "#FF6A1C",
+    "to": "/case-studies/chatnex"
+  },
+  {
+    "id": 3,
+    "tag": "eCommerce",
+    "title": "How we built Garlo into a premium online shopping experience designed for growth.",
+    "videoUrl": "../../src/assets/Videos/garlo.mp4",
+    "logo": null,
+    "logoText": "Garlo",
+    "quote": "The new experience made our brand feel premium and trustworthy. Customers spend more time browsing and converting than ever before.",
+    "author": "Michael Carter",
+    "role": "Founder",
+    "company": "Garlo",
+    "avatar": "MC",
+    "stats": [
+      {
+        "value": "2.8×",
+        "label": "Conversion rate"
+      },
+      {
+        "value": "16 days",
+        "label": "Launch timeline"
+      }
+    ],
+    "accentColor": "#152912",
+    "to": "/case-studies/garlo"
+  },
+  {
+    "id": 4,
+    "tag": "Agency",
+    "title": "How we repositioned GraphicsGround to attract higher-value creative clients.",
+    "videoUrl": "../../src/assets/Videos/graphicsground.mp4",
+    "logo": null,
+    "logoText": "GraphicsGround",
+    "quote": "The brand, website, and positioning instantly elevated how prospects viewed our agency. We now attract significantly better opportunities.",
+    "author": "Nazmul Hossain",
+    "role": "Creative Director",
+    "company": "GraphicsGround",
+    "avatar": "NH",
+    "stats": [
+      {
+        "value": "2.7×",
+        "label": "Qualified leads"
+      },
+      {
+        "value": "21 days",
+        "label": "Full rebrand"
+      }
+    ],
+    "accentColor": "#315428",
+    "to": "/case-studies/graphicsground"
+  },
+  {
+    "id": 5,
+    "tag": "SaaS",
+    "title": "How we designed Aivio to help modern teams collaborate more efficiently.",
+    "videoUrl": "../../src/assets/Videos/aivio.mp4",
+    "logo": null,
+    "logoText": "Aivio",
+    "quote": "They combined strategy, product thinking, and execution into one seamless process. The result was a product experience our users love.",
+    "author": "Sarah Mitchell",
+    "role": "Founder & CEO",
+    "company": "Aivio",
+    "avatar": "SM",
+    "stats": [
+      {
+        "value": "58%",
+        "label": "User retention"
+      },
+      {
+        "value": "15 days",
+        "label": "Product design"
+      }
+    ],
+    "accentColor": "#1A3821",
+    "to": "/case-studies/aivio"
+  }
+]

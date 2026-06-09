@@ -1,0 +1,133 @@
+ <svg
+      className="absolute inset-0 w-full h-full"
+      viewBox="0 0 600 520"
+      preserveAspectRatio="xMidYMid slice"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="600" height="520" fill="#1a0010" />
+      <path
+        d="M580 520 L580 360 A160 160 0 0 0 430 480 Z"
+        fill="#e0449a"
+        opacity="0.13"
+      />
+      <path
+        d="M580 520 L580 280 A240 240 0 0 0 380 450 Z"
+        fill="#c0226a"
+        opacity="0.1"
+      />
+      <circle
+        cx="580"
+        cy="520"
+        r="160"
+        fill="none"
+        stroke="#e0449a"
+        strokeWidth="1.2"
+        opacity="0.2"
+      />
+      <circle
+        cx="580"
+        cy="520"
+        r="240"
+        fill="none"
+        stroke="#e0449a"
+        strokeWidth="1"
+        opacity="0.14"
+      />
+      <circle
+        cx="580"
+        cy="520"
+        r="320"
+        fill="none"
+        stroke="#e0449a"
+        strokeWidth="0.8"
+        opacity="0.1"
+      />
+      <circle
+        cx="580"
+        cy="520"
+        r="400"
+        fill="none"
+        stroke="#e0449a"
+        strokeWidth="0.7"
+        opacity="0.07"
+      />
+      <circle
+        cx="580"
+        cy="520"
+        r="480"
+        fill="none"
+        stroke="#e0449a"
+        strokeWidth="0.5"
+        opacity="0.05"
+      />
+      <line
+        x1="580"
+        y1="520"
+        x2="580"
+        y2="0"
+        stroke="#e0449a"
+        strokeWidth="0.8"
+        opacity="0.1"
+      />
+      <line
+        x1="580"
+        y1="520"
+        x2="0"
+        y2="520"
+        stroke="#e0449a"
+        strokeWidth="0.8"
+        opacity="0.1"
+      />
+      <line
+        x1="580"
+        y1="520"
+        x2="200"
+        y2="100"
+        stroke="#e0449a"
+        strokeWidth="0.7"
+        opacity="0.08"
+      />
+      <line
+        x1="580"
+        y1="520"
+        x2="0"
+        y2="260"
+        stroke="#e0449a"
+        strokeWidth="0.5"
+        opacity="0.06"
+      />
+      <circle cx="580" cy="520" r="8" fill="#ff88cc" opacity="0.5" />
+      <circle cx="580" cy="520" r="3" fill="#ffffff" opacity="0.8" />
+      <circle cx="480" cy="120" r="4" fill="#ff88cc" opacity="0.4" />
+      <circle cx="420" cy="220" r="3" fill="#e0449a" opacity="0.35" />
+      <circle cx="350" cy="160" r="2.5" fill="#ff88cc" opacity="0.3" />
+      <circle cx="510" cy="320" r="5" fill="#e0449a" opacity="0.22" />
+      <circle cx="330" cy="280" r="2" fill="#ff88cc" opacity="0.2" />
+      <rect
+        x="290"
+        y="80"
+        width="80"
+        height="14"
+        rx="3"
+        fill="#e0449a"
+        opacity="0.13"
+      />
+      <rect
+        x="290"
+        y="102"
+        width="50"
+        height="8"
+        rx="2"
+        fill="#e0449a"
+        opacity="0.09"
+      />
+      <rect
+        x="380"
+        y="80"
+        width="14"
+        height="42"
+        rx="3"
+        fill="#e0449a"
+        opacity="0.13"
+      />
+    </svg>

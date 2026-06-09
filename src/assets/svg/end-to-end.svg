@@ -1,0 +1,125 @@
+ <svg
+        viewBox="0 0 480 360"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="w-full h-full"
+      >
+        <rect width="480" height="360" fill="#071A0F" />
+        <circle
+          cx="240"
+          cy="180"
+          r="140"
+          stroke="#A3FF12"
+          strokeWidth="0.6"
+          opacity="0.1"
+          strokeDasharray="6 6"
+        />
+        <circle
+          cx="240"
+          cy="180"
+          r="95"
+          stroke="#A3FF12"
+          strokeWidth="0.6"
+          opacity="0.15"
+          strokeDasharray="4 4"
+        />
+        <circle
+          cx="240"
+          cy="180"
+          r="50"
+          stroke="#A3FF12"
+          strokeWidth="0.8"
+          opacity="0.2"
+        />
+        <circle cx="240" cy="180" r="22" fill="#A3FF12" opacity="0.12" />
+        <circle cx="240" cy="180" r="14" fill="#A3FF12" opacity="0.25" />
+        <circle cx="240" cy="180" r="6" fill="#A3FF12" opacity="0.9" />
+        <circle cx="240" cy="85" r="8" fill="#A3FF12" opacity="0.6" />
+        <circle cx="240" cy="275" r="8" fill="#A3FF12" opacity="0.6" />
+        <circle cx="145" cy="180" r="8" fill="#A3FF12" opacity="0.6" />
+        <circle cx="335" cy="180" r="8" fill="#A3FF12" opacity="0.6" />
+        <circle cx="140" cy="82" r="5" fill="#A3FF12" opacity="0.35" />
+        <circle cx="340" cy="82" r="5" fill="#A3FF12" opacity="0.35" />
+        <circle cx="140" cy="278" r="5" fill="#A3FF12" opacity="0.35" />
+        <circle cx="340" cy="278" r="5" fill="#A3FF12" opacity="0.35" />
+        <line
+          x1="240"
+          y1="166"
+          x2="240"
+          y2="93"
+          stroke="#A3FF12"
+          strokeWidth="1"
+          opacity="0.3"
+        />
+        <line
+          x1="240"
+          y1="194"
+          x2="240"
+          y2="267"
+          stroke="#A3FF12"
+          strokeWidth="1"
+          opacity="0.3"
+        />
+        <line
+          x1="226"
+          y1="180"
+          x2="153"
+          y2="180"
+          stroke="#A3FF12"
+          strokeWidth="1"
+          opacity="0.3"
+        />
+        <line
+          x1="254"
+          y1="180"
+          x2="327"
+          y2="180"
+          stroke="#A3FF12"
+          strokeWidth="1"
+          opacity="0.3"
+        />
+        <text
+          x="240"
+          y="72"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="9"
+          opacity="0.55"
+          fontFamily="monospace"
+        >
+          BRAND
+        </text>
+        <text
+          x="240"
+          y="300"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="9"
+          opacity="0.55"
+          fontFamily="monospace"
+        >
+          ENGINEERING
+        </text>
+        <text
+          x="110"
+          y="184"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="9"
+          opacity="0.55"
+          fontFamily="monospace"
+        >
+          UX
+        </text>
+        <text
+          x="365"
+          y="184"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="9"
+          opacity="0.55"
+          fontFamily="monospace"
+        >
+          DESIGN
+        </text>
+      </svg>

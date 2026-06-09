@@ -1,0 +1,134 @@
+<svg
+        viewBox="0 0 480 360"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="w-full h-full"
+      >
+        <rect width="480" height="360" fill="#071A0F" />
+        <line
+          x1="0"
+          y1="90"
+          x2="480"
+          y2="90"
+          stroke="#A3FF12"
+          strokeWidth="0.4"
+          opacity="0.12"
+        />
+        <line
+          x1="0"
+          y1="180"
+          x2="480"
+          y2="180"
+          stroke="#A3FF12"
+          strokeWidth="0.4"
+          opacity="0.12"
+        />
+        <line
+          x1="0"
+          y1="270"
+          x2="480"
+          y2="270"
+          stroke="#A3FF12"
+          strokeWidth="0.4"
+          opacity="0.12"
+        />
+        <line
+          x1="120"
+          y1="0"
+          x2="120"
+          y2="360"
+          stroke="#A3FF12"
+          strokeWidth="0.4"
+          opacity="0.12"
+        />
+        <line
+          x1="240"
+          y1="0"
+          x2="240"
+          y2="360"
+          stroke="#A3FF12"
+          strokeWidth="0.4"
+          opacity="0.12"
+        />
+        <line
+          x1="360"
+          y1="0"
+          x2="360"
+          y2="360"
+          stroke="#A3FF12"
+          strokeWidth="0.4"
+          opacity="0.12"
+        />
+        <polygon
+          points="80,60 400,60 320,180 160,180"
+          fill="#A3FF12"
+          opacity="0.08"
+        />
+        <polygon
+          points="160,190 320,190 280,280 200,280"
+          fill="#A3FF12"
+          opacity="0.13"
+        />
+        <polygon
+          points="200,290 280,290 255,340 225,340"
+          fill="#A3FF12"
+          opacity="0.22"
+        />
+        <polygon
+          points="80,60 400,60 320,180 160,180"
+          fill="none"
+          stroke="#A3FF12"
+          strokeWidth="1.2"
+          opacity="0.4"
+        />
+        <polygon
+          points="160,190 320,190 280,280 200,280"
+          fill="none"
+          stroke="#A3FF12"
+          strokeWidth="1.2"
+          opacity="0.5"
+        />
+        <polygon
+          points="200,290 280,290 255,340 225,340"
+          fill="none"
+          stroke="#A3FF12"
+          strokeWidth="1.5"
+          opacity="0.7"
+        />
+        <text
+          x="240"
+          y="130"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="11"
+          opacity="0.5"
+          fontFamily="monospace"
+        >
+          MARKET RESEARCH
+        </text>
+        <text
+          x="240"
+          y="242"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="11"
+          opacity="0.6"
+          fontFamily="monospace"
+        >
+          STRATEGY
+        </text>
+        <text
+          x="240"
+          y="322"
+          textAnchor="middle"
+          fill="#A3FF12"
+          fontSize="10"
+          opacity="0.8"
+          fontFamily="monospace"
+        >
+          DESIGN
+        </text>
+        <circle cx="80" cy="60" r="3" fill="#A3FF12" opacity="0.5" />
+        <circle cx="400" cy="60" r="3" fill="#A3FF12" opacity="0.5" />
+        <circle cx="240" cy="340" r="4" fill="#A3FF12" opacity="0.9" />
+      </svg>
